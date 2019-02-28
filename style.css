@@ -1,3 +1,23 @@
 body{
-    background-color: purple
+    background-color: purple;
+    
+}
+nav{
+    text-transform: uppercase;
+    font-family: PT Sans Narrow;
+}
+.nav-link{
+    font-weight: bold;
+}
+/*when you hover the tabs change to italics and background colour changes*/
+.nav-link:hover{
+    font-style: italic;
+    background-color: #7fffd4 !important;
+}
+header{
+    height: 600px;
+    /*width: 100%;*/
+    background-image: url(https://png.pngtree.com/thumb_back/fw800/photos/md/2017-11-03/computer_mac_set_up_key_set_.jpg);
+    background-size: cover;
+    
 }
