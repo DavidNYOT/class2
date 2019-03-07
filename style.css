@@ -11,21 +11,109 @@ nav{
     background-color:purple;
 }
 /*this is about the header*/
+
 header{
+    /*height and width of the header*/
     height: 600px;
     width: 100%;
-    background-image: url(coverimage.jpg);
+    /*This is the cover image*/
+    
+    background-image: url("Cover.jpg");
     background-size:cover;
+
+    /*this is the alignment of the header*/
     text-align: center;
-    font-family: 'Srisakdi', cursive;
+    color:white;
 }
+
 header p{
-    color:#30BFED;
-    font-style:italic;
+    font-style: italic;
 }
-header h1{
-    color:blue;
+
+.services {
+    text-align: center;
 }
+.services i {
+    font-size: 30px;
+    padding: 25px 20px;
+    
+    color: #fff;
+    background-color: #5bc0de;
+    
+    width: 80px;
+    height: 80px;
+    
+    border-radius: 50%;
+}
+
+.services span {
+    width: 200px;
+    display: inline-block;
+}
+
+
+
+
+
+
+
+
+
+/*.services i {*/
+/*    font-size: 30px;*/
+/*    padding: 25px 20px;*/
+/*    color:#fff;*/
+/*    background-color:#5bc0de;*/
+/*    width: 80px;*/
+/*    height: 80px;*/
+/*    border-radius: 50%;*/
+/*}*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*header{*/
+/*    height: 600px;*/
+/*    width: 100%;*/
+/*    background-image: url("cover.jpg");*/
+/*    background-size:cover;*/
+/*    text-align: center;*/
+/*    font-family: 'Srisakdi', cursive;*/
+/*}*/
+/*header p{*/
+/*    color:#30BFED;*/
+/*    font-style:italic;*/
+/*}*/
+/*header h1{*/
+/*    color:blue;*/
+/*}*/
 
 
 
